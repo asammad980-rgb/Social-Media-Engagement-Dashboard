@@ -1,6 +1,5 @@
 # Social Media Engagement Dashboard
-
-## Objective
+
 
 Analyze social media engagement metrics and identify the best posting times, content types and platforms.
 
@@ -19,7 +18,7 @@ Analyze social media engagement metrics and identify the best posting times, con
 * Analyzed engagement by content type
 * Analyzed engagement by platform
 
-## Key Findings
+## Findings
 
 * Best posting hours: 6 PM–7 PM
 * Top content types: Duet, Stitch, Video
